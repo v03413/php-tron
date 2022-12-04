@@ -1,0 +1,5 @@
+{
+    "require": {
+        "iexbase/tron-api": "^5.0"
+    }
+}
